@@ -1,0 +1,6 @@
+# Install sqlalchemy
+    pip install SQLAlchemy
+
+# If we are going to use PosgreSQL psycopg2 as well
+    pip install psycopg2
+
